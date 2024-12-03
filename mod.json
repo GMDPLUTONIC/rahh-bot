@@ -1,0 +1,14 @@
+{
+	"geode": "2.0.0",
+	"version": "v1.4.0-alpha.1",
+	"gd": "2.204",
+	"id": "cattodev.gatobot",
+	"name": "GatoBot",
+	"developer": "CattoDev",
+	"description": "",
+	"resources": {
+		"sprites": [
+			"resources/*.png"
+		]
+	}
+}
